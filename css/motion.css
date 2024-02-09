@@ -169,7 +169,7 @@ button.dimd {
   /* background: linear-gradient(180deg, #d8d8d8, #fff); */
   background: linear-gradient(180deg, #10264a, #10264a);
   border-radius: 0 0 10px 10px;
-  transform: rotateX(70deg);
+  transform: rotateX(60deg);
   transform-origin: top center;
   transform-style: preserve-3d;
   perspective: 800px;
